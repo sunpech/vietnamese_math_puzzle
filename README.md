@@ -2,9 +2,9 @@
 
 ![Math Puzzle](/images/math_puzzle.png)
 
-<small>Image from VN Express</small>
+Image from VN Express
 
-<small>I found this problem via social media link</small>
+I found this problem via social media link
 
 ## Problem
 
